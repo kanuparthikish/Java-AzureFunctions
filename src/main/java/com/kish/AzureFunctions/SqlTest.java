@@ -13,11 +13,11 @@ public class SqlTest {
 //		 try
 //	        {
 	        	    // Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
-//	              //   String url ="jdbc:sqlserver://kishoredb.database.windows.net:1433;database=kishoresqldb;user=kishadmin@kishoredb;password=Password@123;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;";
+//	              //   String url ="";
 //	                //  Connection connect = DriverManager.getConnection(url);
 //			 
 //			
-////					 String url ="jdbc:sqlserver://kishoredb.database.windows.net:3306/kishoresqldb?useSSL=true&requireSSL=false";
+////					 String url ="";
 ////			         Connection connect = DriverManager.getConnection(url, "kishadmin@kishoredb", "Password@123");
 //	                 String sql="INSERT INTO dbo.data_trx(id,name,email,ssn) Values (?,?,?,?)";
 //	                 PreparedStatement statement = connect.prepareStatement(sql);
